@@ -23,12 +23,12 @@ This project is an e-commerce application built using **Jetpack Compose** for An
 ### Home
 The main screen contains a carousel section for promotions, a list of featured products, and a bottom navigation bar with icons for Home, Favorites, and User Profile.
 
-[![image.webp](https://i.postimg.cc/Wb7JNhh1/image.webp)](https://postimg.cc/F77KGFyM)
+![Home Image](https://i.postimg.cc/Wb7JNhh1/image.webp)
 
 ### Product Screen
 This screen displays the selected product with all the important details, from image and price to descriptions and reviews.
 
-[![SPOILER-image.webp](https://i.postimg.cc/J43jspdm/SPOILER-image.webp)](https://postimg.cc/kB42Zvmh)
+![Product Screenshot](https://i.postimg.cc/J43jspdm/SPOILER-image.webp)
 
 ## 🛠️ Technologies Used
 - **Kotlin**: Main language used for development.
