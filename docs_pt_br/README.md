@@ -23,12 +23,12 @@ Este projeto é um aplicativo de e-commerce construído utilizando **Jetpack Com
 ### Home
 A tela principal contém uma seção de carrossel para promoções, uma lista de produtos em destaque e uma barra inferior de navegação com ícones para Home, Favoritos, e Perfil de Usuário.
 
-[![image.webp](https://i.postimg.cc/Wb7JNhh1/image.webp)](https://postimg.cc/F77KGFyM)
+![Home Image](https://i.postimg.cc/Wb7JNhh1/image.webp)
 
 ### Tela de Produto
 Essa tela exibe o produto selecionado com todos os detalhes importantes, desde imagem, preço até descrições e avaliações.
 
-[![SPOILER-image.webp](https://i.postimg.cc/J43jspdm/SPOILER-image.webp)](https://postimg.cc/kB42Zvmh)
+![Product Screenshot](https://i.postimg.cc/J43jspdm/SPOILER-image.webp)
 
 ## 🛠️ Tecnologias Utilizadas
 - **Kotlin**: Linguagem principal utilizada para desenvolvimento.
